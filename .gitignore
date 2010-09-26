@@ -1,0 +1,8 @@
+
+*/obj/Debug/*
+TestResults/*
+*/obj/*
+out/*
+*/bin/debug/*
+*.testsettings
+*.vsmdi
