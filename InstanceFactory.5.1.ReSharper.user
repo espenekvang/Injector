@@ -1,0 +1,38 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="TestMethod" priority="0" />
+      <Item value="public" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="new" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedCollection.cs" caret="0" fromTop="0" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedCollectionTest.cs" caret="314" fromTop="10" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedCollection.cs" caret="0" fromTop="0" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedCollectionTest.cs" caret="330" fromTop="10" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
