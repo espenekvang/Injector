@@ -1,5 +1,5 @@
-C:\Users\Espen\Documents\Visual Studio 2010\Projects\Injector\out\InstanceFactory.UnitTest.dll
-C:\Users\Espen\Documents\Visual Studio 2010\Projects\Injector\out\InstanceFactory.UnitTest.pdb
 C:\Users\Espen\Documents\Visual Studio 2010\Projects\Injector\Test\Injector.UnitTest\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Espen\Documents\Visual Studio 2010\Projects\Injector\Test\Injector.UnitTest\obj\Debug\InstanceFactory.UnitTest.dll
-C:\Users\Espen\Documents\Visual Studio 2010\Projects\Injector\Test\Injector.UnitTest\obj\Debug\InstanceFactory.UnitTest.pdb
+C:\Users\Espen\Documents\Visual Studio 2010\Projects\Injector\out\Injector.UnitTest.dll
+C:\Users\Espen\Documents\Visual Studio 2010\Projects\Injector\out\Injector.UnitTest.pdb
+C:\Users\Espen\Documents\Visual Studio 2010\Projects\Injector\Test\Injector.UnitTest\obj\Debug\Injector.UnitTest.dll
+C:\Users\Espen\Documents\Visual Studio 2010\Projects\Injector\Test\Injector.UnitTest\obj\Debug\Injector.UnitTest.pdb

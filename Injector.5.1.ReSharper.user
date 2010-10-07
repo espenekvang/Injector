@@ -8,10 +8,33 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedCollection.cs" caret="16" fromTop="0" />
+      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="1370" fromTop="17" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="664" fromTop="24" />
     </RecentFiles>
     <RecentEdits>
-      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedCollection.cs" caret="16" fromTop="0" />
+      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="1115" fromTop="25" />
+      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="760" fromTop="20" />
+      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="660" fromTop="20" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="677" fromTop="17" />
+      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="140" fromTop="6" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="1261" fromTop="28" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="364" fromTop="12" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="268" fromTop="5" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="2393" fromTop="36" />
+      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="410" fromTop="0" />
+      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="1348" fromTop="20" />
+      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="1657" fromTop="37" />
+      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="1556" fromTop="31" />
+      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="1348" fromTop="19" />
+      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="1370" fromTop="17" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="2310" fromTop="31" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="2297" fromTop="34" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="626" fromTop="23" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="1000" fromTop="37" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="1362" fromTop="35" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="1712" fromTop="34" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="1941" fromTop="36" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="2245" fromTop="36" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -25,4 +48,68 @@
     </NUnitInstallDir>
     <UseAddins>Never</UseAddins>
   </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="collection" priority="2" />
+      <Item value="TestCategoryAttribute`0" priority="0" />
+      <Item value="class" priority="1" />
+      <Item value="FakeClass`0" priority="3" />
+      <Item value="where" priority="0" />
+      <Item value="return" priority="1" />
+      <Item value="default" priority="0" />
+      <Item value="T`0" priority="5" />
+      <Item value="Assert`0" priority="2" />
+      <Item value="instance" priority="0" />
+      <Item value="public" priority="4" />
+      <Item value="void" priority="4" />
+      <Item value="new" priority="4" />
+      <Item value="SynchronizedDictionary" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="_collection" priority="8" />
+      <Item value="Dictionary&lt;string,T&gt;" priority="1" />
+      <Item value="key" priority="4" />
+      <Item value="objectToAdd" priority="1" />
+      <Item value="_collectionLock" priority="5" />
+      <Item value="try" priority="3" />
+      <Item value="finally" priority="2" />
+      <Item value="TestMethod" priority="2" />
+      <Item value="returnValue" priority="2" />
+      <Item value="myObject" priority="1" />
+      <Item value="value" priority="1" />
+      <Item value="ExpectedException" priority="0" />
+      <Item value="typeof" priority="0" />
+      <Item value="TestInitialize" priority="0" />
+      <Item value="FakeClass" priority="0" />
+      <Item value="catch" priority="0" />
+      <Item value="Add`0" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="out" priority="0" />
+      <Item value="valueToRemove" priority="1" />
+      <Item value="var" priority="1" />
+      <Item value="newObject" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="AreEqual`0" priority="2" />
+      <Item value="IsNull`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IDictionary`2">
+      <Item value="Add`0" priority="0" />
+      <Item value="ContainsKey`0" priority="0" />
+      <Item value="TryGetValue`0" priority="1" />
+      <Item value="Remove`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.ReaderWriterLockSlim">
+      <Item value="EnterReadLock`0" priority="1" />
+      <Item value="EnterWriteLock`0" priority="2" />
+      <Item value="ExitWriteLock`0" priority="1" />
+      <Item value="ExitReadLock`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Injector.Collection.SynchronizedDictionary`1">
+      <Item value="Get`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Injector.Collection.SynchronizedDictionaryTable`1">
+      <Item value="Add`0" priority="0" />
+      <Item value="Get`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>

@@ -2,7 +2,7 @@
 using Injector.Collection;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace InstanceFactory.UnitTest
+namespace Injector.UnitTest
 {
     [TestClass]
     public class SynchronizedDictionaryTest
