@@ -8,33 +8,42 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="1370" fromTop="17" />
-      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="664" fromTop="24" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="2386" fromTop="86" />
+      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="0" fromTop="0" />
+      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/f:InstanceFactory.cs" caret="197" fromTop="6" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:InstanceFactoryTest.cs" caret="438" fromTop="15" />
     </RecentFiles>
     <RecentEdits>
-      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="1115" fromTop="25" />
-      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="760" fromTop="20" />
-      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="660" fromTop="20" />
-      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="677" fromTop="17" />
-      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="140" fromTop="6" />
-      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="1261" fromTop="28" />
-      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="364" fromTop="12" />
-      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="268" fromTop="5" />
-      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="2393" fromTop="36" />
-      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="410" fromTop="0" />
-      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="1348" fromTop="20" />
-      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="1657" fromTop="37" />
-      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="1556" fromTop="31" />
-      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="1348" fromTop="19" />
-      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="1370" fromTop="17" />
-      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="2310" fromTop="31" />
-      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="2297" fromTop="34" />
-      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="626" fromTop="23" />
-      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="1000" fromTop="37" />
-      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="1362" fromTop="35" />
-      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="1712" fromTop="34" />
-      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="1941" fromTop="36" />
-      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="2245" fromTop="36" />
+      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="1100" fromTop="25" />
+      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="745" fromTop="20" />
+      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="645" fromTop="20" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="2386" fromTop="17" />
+      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="125" fromTop="6" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="2386" fromTop="28" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="2386" fromTop="12" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="2386" fromTop="5" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="2386" fromTop="36" />
+      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="395" fromTop="0" />
+      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="1333" fromTop="20" />
+      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="1642" fromTop="37" />
+      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="1541" fromTop="31" />
+      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="1333" fromTop="19" />
+      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="1355" fromTop="17" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="2386" fromTop="31" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="2386" fromTop="34" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="2386" fromTop="23" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="2386" fromTop="37" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="2386" fromTop="35" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="2386" fromTop="34" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="2386" fromTop="36" />
+      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/d:Collection/f:SynchronizedDictionary.cs" caret="0" fromTop="0" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="0" fromTop="0" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:InstanceFactoryTest.cs" caret="558" fromTop="16" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:InstanceFactoryTest.cs" caret="70" fromTop="2" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:SynchronizedDictionaryTest.cs" caret="2386" fromTop="86" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:InstanceFactoryTest.cs" caret="451" fromTop="10" />
+      <File id="02CCFBC6-A2C7-4BDC-8DF8-E949B5295011/f:InstanceFactoryTest.cs" caret="396" fromTop="12" />
+      <File id="2E5289D1-2412-4C0C-9E55-788677F2B0AD/f:InstanceFactory.cs" caret="196" fromTop="6" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -52,17 +61,17 @@
     <ItemStatistics item="Default">
       <Item value="collection" priority="2" />
       <Item value="TestCategoryAttribute`0" priority="0" />
-      <Item value="class" priority="1" />
-      <Item value="FakeClass`0" priority="3" />
-      <Item value="where" priority="0" />
-      <Item value="return" priority="1" />
+      <Item value="class" priority="4" />
+      <Item value="FakeClass`0" priority="6" />
+      <Item value="where" priority="1" />
+      <Item value="return" priority="2" />
       <Item value="default" priority="0" />
       <Item value="T`0" priority="5" />
-      <Item value="Assert`0" priority="2" />
+      <Item value="Assert`0" priority="3" />
       <Item value="instance" priority="0" />
-      <Item value="public" priority="4" />
+      <Item value="public" priority="5" />
       <Item value="void" priority="4" />
-      <Item value="new" priority="4" />
+      <Item value="new" priority="7" />
       <Item value="SynchronizedDictionary" priority="0" />
       <Item value="string" priority="0" />
       <Item value="_collection" priority="8" />
@@ -72,12 +81,12 @@
       <Item value="_collectionLock" priority="5" />
       <Item value="try" priority="3" />
       <Item value="finally" priority="2" />
-      <Item value="TestMethod" priority="2" />
+      <Item value="TestMethod" priority="3" />
       <Item value="returnValue" priority="2" />
       <Item value="myObject" priority="1" />
       <Item value="value" priority="1" />
       <Item value="ExpectedException" priority="0" />
-      <Item value="typeof" priority="0" />
+      <Item value="typeof" priority="2" />
       <Item value="TestInitialize" priority="0" />
       <Item value="FakeClass" priority="0" />
       <Item value="catch" priority="0" />
@@ -87,9 +96,16 @@
       <Item value="valueToRemove" priority="1" />
       <Item value="var" priority="1" />
       <Item value="newObject" priority="1" />
+      <Item value="private" priority="0" />
+      <Item value="interface" priority="0" />
+      <Item value="IFakeClass`0" priority="1" />
+      <Item value="TInterfaceImpl`0" priority="0" />
+      <Item value="TInterface`0" priority="1" />
+      <Item value="GetType`0" priority="0" />
+      <Item value="createdInstance" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
-      <Item value="AreEqual`0" priority="2" />
+      <Item value="AreEqual`0" priority="4" />
       <Item value="IsNull`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Collections.Generic.IDictionary`2">
@@ -110,6 +126,9 @@
     <ItemStatistics item="Qualified:Injector.Collection.SynchronizedDictionaryTable`1">
       <Item value="Add`0" priority="0" />
       <Item value="Get`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Injector.UnitTest.InstanceFactoryTest+IFakeClass">
+      <Item value="GetType`0" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>

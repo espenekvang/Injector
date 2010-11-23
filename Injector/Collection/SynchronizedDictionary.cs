@@ -1,19 +1,20 @@
 ﻿using System.Collections.Generic;
 using System.Threading;
+using System;
 
 namespace Injector.Collection
 {
-    public class SynchronizedDictionaryTable<T> where T : class
+    public class SynchronizedDictionary
     {
-        private readonly IDictionary<string, T> _collection = new Dictionary<string, T>();
+        private readonly IDictionary<string, object> _collection = new Dictionary<string, object>();
         private readonly ReaderWriterLockSlim _collectionLock = new ReaderWriterLockSlim();
         
-        public T Get(string key)
+        public object Get(string key)
         {
             _collectionLock.EnterReadLock();
             try
             {
-                T value;
+                object value;
                 if (_collection.TryGetValue(key, out value))
                 {
                     return value;
@@ -23,10 +24,10 @@ namespace Injector.Collection
             {
                 _collectionLock.ExitReadLock();
             }
-            return default(T);
+            return null;
         }
 
-        public void Add(string key, T objectToAdd)
+        public void Add(string key, object objectToAdd)
         {
             _collectionLock.EnterWriteLock();
             try
@@ -39,7 +40,7 @@ namespace Injector.Collection
             }
         }
 
-        public void Add(string key, T objectToAdd, bool overrideExistingValue)
+        public void Add(string key, object objectToAdd, bool overrideExistingValue)
         {
             if (overrideExistingValue)
             {
@@ -54,6 +55,19 @@ namespace Injector.Collection
             try
             {
                 _collection.Remove(key);
+            }
+            finally
+            {
+                _collectionLock.ExitWriteLock();
+            }
+        }
+
+        internal void RemoveAll()
+        {
+            _collectionLock.EnterWriteLock();
+            try
+            {
+                _collection.Clear();
             }
             finally
             {

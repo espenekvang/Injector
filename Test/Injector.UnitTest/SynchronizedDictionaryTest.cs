@@ -7,12 +7,12 @@ namespace Injector.UnitTest
     [TestClass]
     public class SynchronizedDictionaryTest
     {
-        private SynchronizedDictionaryTable<FakeClass> _collection;
+        private SynchronizedDictionary _collection;
 
         [TestInitialize]
         public void InitializeTest()
         {
-            _collection = new SynchronizedDictionaryTable<FakeClass>();
+            _collection = new SynchronizedDictionary();
         }
 
         [TestMethod]
